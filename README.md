@@ -14,4 +14,5 @@ Dalam sekejap, Anda akan menemukan persona belajar Anda:
 
 Mengapa ini penting? Dengan mengenali kekuatan dan area yang perlu ditingkatkan, Anda bisa menyusun strategi belajar yang lebih efektif. Bagi para pendidik, PersonaFinder adalah jendela untuk memahami dinamika kelas dan memberikan dukungan yang lebih personal.
 Siap menemukan persona Anda? Coba PersonaFinder sekarang!
+
 <img width="200" height="200" alt="qrcode_231610304_c1222d5d35b84368cf21047525cba2dc" src="https://github.com/user-attachments/assets/2fc18309-2170-4047-ad25-dc31e8fa3d1e" />
